@@ -6,11 +6,11 @@ Kurikulum simplified adalah sebuah repository untuk kumpulan referensi belajar b
 
 Repository ini hanya sebuah referensi, dan siapapun boleh menambah dan mengedit referensi maupun tulisan di repository ini dengan se-izin `panitia` repository
 
-## Kontribusi
+## Bagaimana Cara Kontribusi?
 
-- clone / fork repository
-- buat branch baru
-- buat merge request
+- Clone / Fork repository (Untuk di desktop, silakan cek pojok kanan atas. Setelah itu akan otomatis masuk ke profile kita. Sekadar intermezzo, cek pojok kiri atas akan ada tulisan `id kamu` / kurikulum-simplified, lalu bagian bawahnya ada `forked from ...`, bisa dibilang semacam `credit` )
+- Buat Branch Baru
+- Buat Merge Request
 
 
 ## Catatan Kontribusi
