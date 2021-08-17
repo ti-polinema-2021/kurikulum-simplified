@@ -8,7 +8,7 @@ Repository ini hanya sebuah referensi, dan siapapun boleh menambah dan mengedit 
 
 ## Bagaimana Cara Kontribusi?
 
-- Clone / Fork repository (Untuk di desktop, silakan cek pojok kanan atas. Setelah itu akan otomatis masuk ke profile kita. Sekadar intermezzo, cek pojok kiri atas akan ada tulisan [id kamu] / kurikulum-simplified, lalu bagian bawah ada "forked from ...", bisa dibilang semacam 'credit')
+- Clone / Fork repository (Untuk di desktop, silakan cek pojok kanan atas. Setelah itu akan otomatis masuk ke profile kita. Sekadar intermezzo, cek pojok kiri atas akan ada tulisan `id kamu` / kurikulum-simplified, lalu bagian bawahnya ada `forked from ...`, bisa dibilang semacam `credit` )
 - Buat Branch Baru
 - Buat Merge Request
 
