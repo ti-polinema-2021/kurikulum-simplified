@@ -10,7 +10,7 @@ Tujuan utama OOP adalah untuk mengatasi kelemahan pendekatan pemrograman konvens
 
 Dalam object oriented programming, dikenal empat prinsip yang menjadi dasar penggunaannya.
 
-1. Encapsulation
-2. Abstraction
-3. Inheritance
-4. Polymorphism
+1. [Encapsulation (Enkapsulasi)](./01-Encapsulation/readme.md)
+2. [Abstraction (Abstraksi)](./02-Abstraction/readme.md)
+3. [Inheritance (Pewarisan)](./03-Inheritance/readme.md)
+4. [Polymorphism (Polimorfisme)](./04-Polymorphism/readme.md)
