@@ -35,7 +35,7 @@
     * [Sigma Notation - Eddie Woo](https://www.youtube.com/watch?v=TjMLzklnn2c)
  6. Fungsi dan Grafik Fungsi Dasar
     * [What is a Function?](https://www.youtube.com/watch?v=GY6Q2f2kvY0)
-    * Composite and Inverse](https://www.youtube.com/watch?v=uiMNvOPqrSM)
+    * [Composite and Inverse](https://www.youtube.com/watch?v=uiMNvOPqrSM)
  7. Pertidaksamaan
     * [What are Inequalities?](https://www.youtube.com/watch?v=e_tY6X5PwWw)
     * [Quadratic Inequalities](https://www.youtube.com/watch?v=_gWjLKsFOPE)
