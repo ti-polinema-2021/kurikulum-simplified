@@ -17,7 +17,7 @@ Matematika diskrit sendiri adalah landasan ilmu informatika yang ada di zaman se
 
 ## Catatan
 
-Di tulisan ini, kita akan mencoba untuk men-implementasikan matematika diskrit dalam matematika itu sendiri dan Bahasa pemograman (c++, python, dsb)
+Di tulisan ini, kita akan mencoba untuk men-implementasikan matematika diskrit dalam matematika itu sendiri dan Bahasa pemograman (c++, javascript, dsb)
 
 ## Referensi 
 

@@ -20,9 +20,9 @@ Tadi, di awal muqaddimah pembahasan tentang logika, kita sudah tahu, bahwa objek
 
 Di dalam bahasa pemograman nantinya, kita tidak akan menggunakan sebuah statement atau kalimat secara langsung. Tetapi menggunakan sebuah variable dan operator perbandingan, seperti contoh dibawah ini : 
 
-```python
-umur = 17
-bisa_membuat_ktp = umur > 17
+```javascript
+umur = 17 //Deklarasai variable
+bisa_membuat_ktp = umur > 17 //Sebuah variable yang bernilai `True`
 ```
 
 
