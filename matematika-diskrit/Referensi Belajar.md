@@ -16,12 +16,15 @@
 
 `Membutuhkan Waktu < 7 Jam Belajar`
 
+` Jangan malu untuk belajar lagi dari Dasar`
+
  1. Bilangan Matematika 
     * [Classification of Numbers - Youtube](https://www.youtube.com/watch?v=vbPUS-0Wbv4)
     * [Types of Numbers](https://www.youtube.com/watch?v=QUGmwPwtbpg)
  2. Binary dan Hexadecimal Numbers
     * [Binary Numbers and Base System](https://www.youtube.com/watch?v=LpuPe81bc2w)
     * [Decimal, Binary, Octal, & Hexadecimal](https://www.youtube.com/watch?v=FFDMzbrEXaE)
+    * [How Binary Works? - TeD](https://www.youtube.com/watch?v=wgbV6DLVezo)
  3. Eksponen dan Logaritma
     * [Laws of Exponents](https://www.youtube.com/watch?v=LkhPRz7Hocg) 
     * [What is Logarithm?](https://www.youtube.com/watch?v=4UNkQcBrLaQ)
@@ -37,4 +40,4 @@
     * [What are Inequalities?](https://www.youtube.com/watch?v=e_tY6X5PwWw)
     * [Quadratic Inequalities](https://www.youtube.com/watch?v=_gWjLKsFOPE)
 
-`Sebaiknya diperkuat terlebih dahulu agar saat Belajar MatDis lebih mudah`  ` Jangan malu untuk belajar lagi dari Dasar`
+`Sebaiknya diperkuat terlebih dahulu agar saat Belajar MatDis lebih mudah`  
