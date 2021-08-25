@@ -29,15 +29,20 @@ Di dalam bahasa pemograma nanti, kita akan menggunakan operator logika juga untu
 #### Contoh dalam bahasa pemograman :
 
 ```javascript
-umur = 17
-bisa_membuat_ktp = umur > 17
+let umur = 17
+let bisa_membuat_ktp = umur > 17
 
-uang = 1000
-bisa_membeli_mobil = uang > 1500
+let uang = 1000
+let bisa_membeli_mobil = uang > 1500
 
-punya_mobil = bisa_membuat_ktp && bisa_membeli_mobil //operator and
-punya_motor = bisa_membuat_ktp || bisa_membeli_mobil //oprator or
-kebalikan = !bisa_membuat_ktp //operator not
+ //operator and
+let punya_mobil = bisa_membuat_ktp && bisa_membeli_mobil
+
+//oprator or
+let punya_motor = bisa_membuat_ktp || bisa_membeli_mobil 
+
+//operator not
+let kebalikan = !bisa_membuat_ktp 
 
 ```
 

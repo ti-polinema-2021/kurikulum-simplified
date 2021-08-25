@@ -21,8 +21,12 @@ Tadi, di awal muqaddimah pembahasan tentang logika, kita sudah tahu, bahwa objek
 Di dalam bahasa pemograman nantinya, kita tidak akan menggunakan sebuah statement atau kalimat secara langsung. Tetapi menggunakan sebuah variable dan operator perbandingan, seperti contoh dibawah ini : 
 
 ```javascript
-umur = 17 //Deklarasai variable
-bisa_membuat_ktp = umur > 17 //Sebuah variable yang bernilai `True`
+//Deklarasai variable
+let umur = 17 
+
+//Sebuah variable yang bernilai `true`
+//contoh proposisi dalam bahasa pemograman
+let bisa_membuat_ktp = umur > 17 
 ```
 
 
